@@ -1,2 +1,3 @@
 # BlackFridaySalesPrediction
-Here Prediction of the Customer Behaviour is done..
+Here Predicting the customer behaviour using Machine Learning.. 
+
